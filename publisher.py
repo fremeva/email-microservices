@@ -3,14 +3,14 @@ import json
 
 
 def pub_send_email(data):
-    connection = pika.BlockingConnection(pika.ConnectionParameters('localhost'))
-    channel = connection.channel()
-    channel.queue_declare(queue="emails")
-    channel.basic_publish(
-        exchange="",
-        routing_key="emails",
-        body=data
-    )
+    with pika.BlockingConnection(pika.ConnectionParameters('localhost')) as connection:
+        channel = connection.channel()
+        channel.queue_declare(queue="emails")
+        channel.basic_publish(
+            exchange="",
+            routing_key="emails",
+            body=data
+        )
 
 
 if __name__ == '__main__':
