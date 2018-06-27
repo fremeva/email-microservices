@@ -14,8 +14,8 @@ settings.configure(
     EMAIL_HOST='smtp.gmail.com',
     EMAIL_USE_TLS=True,
     EMAIL_PORT=587,
-    EMAIL_HOST_USER='YOUREMAIL',
-    EMAIL_HOST_PASSWORD='YOURPASSWORD'
+    EMAIL_HOST_USER='fredylsvprueba@gmail.com',
+    EMAIL_HOST_PASSWORD='prueba123456789'
 
 )
 from django.conf.urls import url

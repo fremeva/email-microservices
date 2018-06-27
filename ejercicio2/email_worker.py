@@ -10,7 +10,7 @@ def callback(ch, method, properties, body):
     if data['type'] == 'ERROR':
         print('[*] Message for broker {} : {}'.format(queue_name, body))
         message = '[{}] "{}" {}'.format(data['type'], data['code'], data['body'])
-        print(send_email('Error del Servidor !!ALERTA!!', message, ['fredymv03@gmail.com']))
+        print(send_email('Error del Servidor !!ALERTA!!', message, ['fredylsvprueba@gmail.com']))
 
 
 if __name__ == '__main__':
