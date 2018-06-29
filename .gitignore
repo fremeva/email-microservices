@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 .idea/
+db.sqlite3
+
+ejercicio5/fileman_celery/media/
