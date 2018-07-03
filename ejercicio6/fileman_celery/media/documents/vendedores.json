@@ -1,0 +1,665 @@
+[
+  {
+    "nombre": "Fredy Mendoza",
+    "ventas": [
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 21
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 3
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 6
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 7
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 12
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 15
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 9
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 25
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 6
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 21
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 0
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 0
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 21
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 22
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ]
+    ]
+  },
+  {
+    "nombre": "Vendedor2",
+    "ventas": [
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 21
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 14
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 6
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 8
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 85
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 1
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 6
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 19
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 30
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 15
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 7
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 14
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 22
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 3
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 0
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 0
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 0
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 23
+        }
+      ]
+    ]
+  },
+  {
+    "nombre": "Estrella",
+    "ventas": [
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 22
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 14
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 45
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 45
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 12
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 10
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 10
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 15
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 6
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 16
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 15
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 15
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 22
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 16
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 26
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 25
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 0
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 7
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 11
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 4
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 14
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 9
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 6
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 11
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 9
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 10
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 4
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 12
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 10
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 12
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 10
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 5
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 6
+        }
+      ],
+      [
+        {
+          "nombre": "Producto A",
+          "cantidad": 0
+        },
+        {
+          "nombre": "Producto B",
+          "cantidad": 13
+        },
+        {
+          "nombre": "Producto C",
+          "cantidad": 25
+        },
+        {
+          "nombre": "Producto D",
+          "cantidad": 23
+        }
+      ]
+    ]
+  }
+]
